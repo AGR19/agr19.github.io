@@ -29,7 +29,7 @@ author:
   bio              : "Graduate Student & Researcher"
   location         : "United States"
   employer         : "Arizona State University"
-  uri              : "adishesh@asu.edu"
+  uri              : # URL
   email            : "adishesh@asu.edu" 
 
   # Academic websites

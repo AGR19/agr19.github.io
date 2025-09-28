@@ -28,9 +28,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Graduate Student & Researcher"
   location         : "United States"
-  employer         : ""
+  employer         : "Arizona State University"
   uri              : # URL
-  email            : "" 
+  email            : "adishesh@asu.edu" 
 
   # Academic websites
   academia         : # URL
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username
   codepen          : # Username
   dribbble         : # Username
-  github           : # Username
+  github           : # "agr19"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : # www.linkedin.com/in/adishesh-gr
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

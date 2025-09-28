@@ -15,14 +15,17 @@ Download CV
 
 Education
 ======
-* **Master of Science in Computer Software Engineering (Thesis Track)** - Arizona State University, Tempe, AZ (Aug. 2024 – May 2026)
-  * GPA: 3.83
-  * Research Topics:
-    * Use of Deep Reinforcement Learning and LLM's for Ontology Alignment
-    * Retrieval-Augmented Generation (RAG) with Knowledge Graphs
-    * Parsing Resumes at scale with LLM's using CIP Codes and Identifying Skill Gaps and predicting result oriented curriculum for students
+**Master of Science in Computer Software Engineering (Thesis Track)**  
+*Arizona State University, Tempe, AZ* | Aug. 2024 – May 2026  
+GPA: 3.83
 
-* **Bachelor of Engineering in Information Science and Engineering** - Visvesvaraya Technological University, Bengaluru, India (Aug. 2023)
+**Research Topics:**
+- Use of Deep Reinforcement Learning and LLM's for Ontology Alignment
+- Retrieval-Augmented Generation (RAG) with Knowledge Graphs  
+- Parsing Resumes at scale with LLM's using CIP Codes and Identifying Skill Gaps and predicting result oriented curriculum for students
+
+**Bachelor of Engineering in Information Science and Engineering**  
+*Visvesvaraya Technological University, Bengaluru, India* | Aug. 2023
 
 Research Experience
 ======

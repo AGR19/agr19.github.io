@@ -23,6 +23,12 @@ Professional Development
 ======
 I actively engage with the academic community through conferences, workshops, and collaborative research projects. I believe in the importance of knowledge sharing and continuous learning to advance both personal growth and collective understanding.
 
-Contact
+Contact & Connect
 ======
 I welcome opportunities for collaboration, discussion, and knowledge exchange. Please feel free to reach out if you are interested in my work or would like to explore potential research partnerships.
+
+**Get in Touch:**
+- 📧 **Email:** [adishesh@asu.edu](mailto:adishesh@asu.edu)
+- 💼 **LinkedIn:** [linkedin.com/in/adishesh-gr](https://linkedin.com/in/adishesh-gr)
+- 💻 **GitHub:** [github.com/AGR19](https://github.com/AGR19)
+- 📄 **Download CV:** [PDF Resume](/files/Adishesh_Gonibeed_Ravishankar.pdf)

@@ -13,6 +13,10 @@ redirect_from:
   <a href="/files/Adishesh_Gonibeed_Ravishankar.pdf" class="btn btn--primary btn--large">
     📄 Download CV (PDF)
   </a>
+  <br><br>
+  <a href="https://drive.google.com/file/d/1NpPt2p-Bqzx6dVzQ4Wcq7tdK4VGu9HVn/view?usp=share_link" class="btn btn--info btn--large" target="_blank">
+    🔗 View CV on Google Drive
+  </a>
 </div>
 
 ---

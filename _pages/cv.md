@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Download CV
+======
+* [Download CV (PDF)](/files/Adishesh_Gonibeed_Ravishankar.pdf)
+* [View CV on Google Drive](https://drive.google.com/file/d/1YeeT02SwtnfVJpfoR5erJy82tmCGZC2E/view?usp=share_link)
+
 Education
 ======
 * [Degree information to be added]

@@ -9,52 +9,87 @@ redirect_from:
 
 {% include base_path %}
 
-Download CV
-======
-* [Download CV (PDF)](/files/Adishesh_Gonibeed_Ravishankar.pdf)
+<div style="text-align: center; margin-bottom: 30px;">
+  <a href="/files/Adishesh_Gonibeed_Ravishankar.pdf" class="btn btn--primary btn--large">
+    📄 Download CV (PDF)
+  </a>
+</div>
 
-Education
-======
-**Master of Science in Computer Software Engineering (Thesis Track)**  
-*Arizona State University, Tempe, AZ* | Aug. 2024 – May 2026  
-GPA: 3.83
+---
 
-**Research Topics:**
-- Use of Deep Reinforcement Learning and LLM's for Ontology Alignment
-- Retrieval-Augmented Generation (RAG) with Knowledge Graphs  
-- Parsing Resumes at scale with LLM's using CIP Codes and Identifying Skill Gaps and predicting result oriented curriculum for students
+## Education
 
-**Bachelor of Engineering in Information Science and Engineering**  
-*Visvesvaraya Technological University, Bengaluru, India* | Aug. 2023
+### Master of Science in Computer Software Engineering (Thesis Track)
+**Arizona State University** | *Tempe, AZ* | Aug. 2024 – May 2026  
+**GPA:** 3.83/4.0
 
-Research Experience
-======
-* **Research Aide and Grader** - Arizona State University, W.P. Carey School of Business (May 2025 – Present)
-  * Formulated a data-driven strategy for curriculum optimization by researching and implementing LLMs to identify and address organizational skill gaps, leading to more targeted learning pathways
-  * Performed SEM, ANOVA, ANCOVA, Regression Discontinuity, Survival Analysis, other statistical and non statistical data analysis, cleaning and visualizations on Canvas LMS Data and other internal data for industry reports
-  * Communicated key findings to sponsors to support strategic decision-making
-  * Facilitate course delivery, evaluate assignments, and mentor students in AWS Cloud Foundations course - CIS 194
+**Current Research Focus:**
+- Deep Reinforcement Learning and LLMs for Ontology Alignment
+- Retrieval-Augmented Generation (RAG) with Knowledge Graphs
+- Large-scale Resume Parsing using LLMs with CIP Codes for Skill Gap Analysis and Curriculum Optimization
 
-Work Experience
-======
-* **AWS Cloud and Full-Stack Developer Intern** - The India Cloud, Bengaluru, India (Aug. 2023 – Jan. 2024)
-  * Enhanced website performance and scalability using AWS (EC2, S3, Route 53, CloudFront)
-  * Established CI/CD pipelines via AWS CodeBuild, CodeCommit, and CodePipeline for continuous delivery
-  * Built full-stack solutions with Node.js, React, and Passport for seamless frontend-backend integration
-  * Designed an AI-driven chatbot enabling new hires to easily query HR documents and ask questions during the onboarding process
+### Bachelor of Engineering in Information Science and Engineering
+**Visvesvaraya Technological University** | *Bengaluru, India* | Aug. 2023
 
-* **Data Science and AI Internship Training** - New Age Solutions Technologies (NASTECH), Bengaluru, India (March 2022 – June 2022)
-  * Applied AI and data science techniques, including machine learning, deep learning, and big data analysis
-  * Utilized TensorFlow, Keras, Scikit-learn, Pandas, Matplotlib, and Seaborn for deep learning model development and visualization
-  * Created and deployed a real-time object-detection service by YOLOv5 on edge devices, achieving 60 FPS inference (under 50 ms latency)
+---
 
-Technical Skills
-======
-* **Languages**: R, Python, C, C++, JavaScript, CSS, SQL, PHP, Java, Scala
-* **Python Libraries**: TensorFlow, Keras, Scikit-learn, Pandas, Matplotlib, Seaborn, OpenCV, Mediapipe
-* **Cloud and DevOps**: AWS (EC2, S3, Route 53, CloudFront, Developer Tools), Kubernetes, Docker
-* **Frameworks and Tools**: Node.js, React, Git, Scrum, Agile, Tableau, Spark, Kafka
-* **Certifications**: Generative AI for Everyone (DeepLearning.ai), AWS Cloud Practitioner (AWS)
+## Research Experience
+
+### Research Aide and Grader
+**Arizona State University, W.P. Carey School of Business** | *May 2025 – Present*
+- Formulated data-driven strategies for curriculum optimization by researching and implementing LLMs to identify organizational skill gaps
+- Performed advanced statistical analyses (SEM, ANOVA, ANCOVA, Regression Discontinuity, Survival Analysis) on Canvas LMS data for industry reports
+- Communicated key findings to sponsors to support strategic decision-making
+- Facilitated course delivery and mentored students in AWS Cloud Foundations (CIS 194)
+
+---
+
+## Professional Experience
+
+### AWS Cloud and Full-Stack Developer Intern
+**The India Cloud** | *Bengaluru, India* | Aug. 2023 – Jan. 2024
+- Enhanced website performance and scalability using AWS services (EC2, S3, Route 53, CloudFront)
+- Established CI/CD pipelines via AWS CodeBuild, CodeCommit, and CodePipeline for continuous delivery
+- Built full-stack solutions with Node.js, React, and Passport for seamless frontend-backend integration
+- Designed AI-driven chatbot for HR onboarding process, enabling new hires to query documents efficiently
+
+### Data Science and AI Internship Training
+**New Age Solutions Technologies (NASTECH)** | *Bengaluru, India* | March 2022 – June 2022
+- Applied AI and data science techniques including machine learning, deep learning, and big data analysis
+- Utilized TensorFlow, Keras, Scikit-learn, Pandas, Matplotlib, and Seaborn for model development and visualization
+- Created and deployed real-time object detection service using YOLOv5 on edge devices (60 FPS, <50ms latency)
+
+---
+
+## Technical Skills
+
+<div class="skills-grid" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
+
+<div>
+<strong>Programming Languages</strong><br>
+Python, R, C/C++, JavaScript, Java, Scala, SQL, PHP, CSS
+</div>
+
+<div>
+<strong>Machine Learning & AI</strong><br>
+TensorFlow, Keras, Scikit-learn, Pandas, Matplotlib, Seaborn, OpenCV, Mediapipe
+</div>
+
+<div>
+<strong>Cloud & DevOps</strong><br>
+AWS (EC2, S3, Route 53, CloudFront, Developer Tools), Kubernetes, Docker
+</div>
+
+<div>
+<strong>Frameworks & Tools</strong><br>
+Node.js, React, Git, Tableau, Spark, Kafka, Scrum/Agile
+</div>
+
+</div>
+
+**Certifications:**
+- Generative AI for Everyone (DeepLearning.ai)
+- AWS Cloud Practitioner (AWS)
 
 <!-- Publications (currently empty - add individual publications as needed)
 Publications
@@ -72,12 +107,15 @@ Talks
   {% endfor %}</ul>
 -->
   
-Teaching
-======
-* **Teaching Assistant and Grader** - CIS 194: AWS Cloud Foundations, Arizona State University (May 2025 – Present)
-  * Instructed students in cloud computing fundamentals and AWS services
-  * Conducted regular office hours to provide academic support and guidance to students
-  * Evaluated assignments and provided comprehensive feedback to enhance student learning outcomes
+---
+
+## Teaching Experience
+
+### Teaching Assistant and Grader | CIS 194: AWS Cloud Foundations
+**Arizona State University** | *May 2025 – Present*
+- Instructed students in cloud computing fundamentals and AWS services
+- Conducted regular office hours providing academic support and guidance
+- Evaluated assignments with comprehensive feedback to enhance learning outcomes
 
 <!-- Dynamic teaching posts (currently empty)
   <ul>{% for post in site.teaching reversed %}
@@ -85,39 +123,56 @@ Teaching
   {% endfor %}</ul>
 -->
 
-Projects
-======
-* **DRAL-OA** - Researcher and Developer
-  * Enhanced and submitted a deep reinforcement and adaptive learning ontology alignment framework to the OAEI 2025 campaign, achieving benchmark scores of 92 percent Precision and Recall on the complex anatomy track
-  * Currently leading research into integrating LLMs to further boost alignment accuracy, with the objective of surpassing the 92 percent performance benchmark
+---
 
-* **Finetuning Gemma-3n with LORA** - Developer
-  * Built a custom fine-tuning pipeline for Google's Gemma 3N, utilizing Unsloth's optimized framework and LORA PEFT to train on specialized for Local LLM on mobile devices
-  * Architected an automated end-to-end fine-tuning pipeline that directly ingests datasets from the Huggingface Hub, enabling one-click model training and significantly reducing the turnaround time
+## Selected Projects
 
-* **Smart Portfolio Builder** - AWS Cloud, Backend Developer
-  * Won the **MOST INNOVATIVE PROJECT** at INNOVATION HACKS - 2025
-  * Integrated AWS Bedrock (Claude 3 Haiku) into backend to provide AI-enhanced resume summarization and orchestrated scalable processing of user portfolio data
-  * Designed a robust Node.js/Express.js RESTful backend, processing 100+ resumes and videos via Multer-powered uploads, achieving high percent uptime through optimized PostgreSQL data storage
+### DRAL-OA: Deep Reinforcement Adaptive Learning for Ontology Alignment
+**Role:** Researcher and Developer | **Status:** Submitted to OAEI 2025
+- Enhanced deep reinforcement learning framework achieving **92% Precision and Recall** on complex anatomy track
+- Leading research into LLM integration to surpass current performance benchmarks
+- Submitted to Ontology Alignment Evaluation Initiative (OAEI) 2025 campaign
 
-* **HR Onboarding Chatbot** - Full Stack Developer
-  * Engineered a LLM chatbot solution integrated with OpenAI modules, sentence transformers, FAISS, NLTK, NumPy, and Pandas
-  * Built efficient natural language queries against proprietary content. Ensured scalability, reliability, and seamless integration with existing AWS-based infrastructure
-  * Pioneered natural language processing (NLP) pipeline improving content retrieval accuracy by 30 percent and reducing query processing time by 40 percent on AWS
+### Finetuning Gemma-3N with LoRA
+**Role:** Developer | **Tech Stack:** Unsloth, LoRA PEFT, HuggingFace
+- Built custom fine-tuning pipeline for Google's Gemma 3N optimized for mobile devices
+- Architected automated end-to-end pipeline with direct HuggingFace Hub integration
+- Achieved one-click model training with significantly reduced turnaround time
+
+### Smart Portfolio Builder 🏆
+**Role:** AWS Cloud & Backend Developer | **Award:** Most Innovative Project, Innovation Hacks 2025
+- Integrated AWS Bedrock (Claude 3 Haiku) for AI-enhanced resume summarization
+- Designed robust Node.js/Express.js backend processing 100+ resumes and videos
+- Achieved high uptime through optimized PostgreSQL data storage and Multer-powered uploads
+
+### HR Onboarding Chatbot
+**Role:** Full Stack Developer | **Tech Stack:** OpenAI, FAISS, NLTK, AWS
+- Engineered LLM chatbot with sentence transformers and vector search capabilities
+- Improved content retrieval accuracy by **30%** and reduced query processing time by **40%**
+- Ensured scalability and seamless AWS infrastructure integration
   
-Awards and Honors
-======
-* **MOST INNOVATIVE PROJECT** - INNOVATION HACKS 2025 (Smart Portfolio Builder project)
+---
 
-Service and Leadership
-======
-* **Chair of Academia** - ACM at ASU (Jan 2025 - Mar 2025)
-  * Curated a series of interactive workshops and information sessions for the ACM SIG's and Student Research Competition
-  * Guided 100+ students through the submission process and enhanced application quality
+## Awards and Honors
 
-* **Volunteer Teacher** - Noble Cause Foundation (Aug 2020 - Apr 2024)
-  * Tutored underprivileged children in STEM subjects including math, science, and social studies for 3 years and 9 months
-  * Participated in community outreach events and cleaning drives, contributing to social welfare initiatives
+🏆 **Most Innovative Project** | Innovation Hacks 2025  
+*Smart Portfolio Builder project*
+
+---
+
+## Service and Leadership
+
+### Chair of Academia | ACM at ASU
+*Jan 2025 – Mar 2025*
+- Curated interactive workshops and information sessions for ACM SIGs and Student Research Competition
+- Guided **100+ students** through submission processes and enhanced application quality
+- Organized academic events to foster research culture among undergraduate students
+
+### Volunteer Teacher | Noble Cause Foundation
+*Aug 2020 – Apr 2024* | **3 years 9 months**
+- Tutored underprivileged children in STEM subjects (mathematics, science, social studies)
+- Participated in community outreach events and environmental cleaning drives
+- Contributed to social welfare initiatives impacting local communities
 
 <!-- Professional Memberships (add when applicable)
 Professional Memberships

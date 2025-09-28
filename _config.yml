@@ -29,7 +29,7 @@ author:
   bio              : "Graduate Student & Researcher"
   location         : "United States"
   employer         : "Arizona State University"
-  uri              : # URL
+  uri              : "adishesh@asu.edu"
   email            : "adishesh@asu.edu" 
 
   # Academic websites
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username
   codepen          : # Username
   dribbble         : # Username
-  github           : # "agr19"
+  github           : "AGR19"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # www.linkedin.com/in/adishesh-gr
+  linkedin         : "adishesh-gr"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -122,7 +122,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 

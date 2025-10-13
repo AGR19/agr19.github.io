@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <div style="text-align: center; margin-bottom: 30px;">
-  <a href="/files/Adishesh_Gonibeed_Ravishankar.pdf" class="btn btn--primary btn--large">
+  <a href="https://drive.google.com/file/d/121kGmsI1cderSPxEkSDrrDPZqln9dp2f/view?usp=sharing" class="btn btn--primary btn--large" target="_blank">
     📄 Download CV (PDF)
   </a>
 </div>
@@ -27,6 +27,7 @@ redirect_from:
 - Deep Reinforcement Learning and LLMs for Ontology Alignment
 - Retrieval-Augmented Generation (RAG) with Knowledge Graphs
 - Large-scale Resume Parsing using LLMs with CIP Codes for Skill Gap Analysis and Curriculum Optimization
+- GEMR:KG - Global Emerging Markets Risk Knowledge Graph
 
 ### Bachelor of Engineering in Information Science and Engineering
 **Visvesvaraya Technological University** | *Bengaluru, India* | Aug. 2023

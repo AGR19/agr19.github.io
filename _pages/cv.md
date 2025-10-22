@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <div style="text-align: center; margin-bottom: 30px;">
-  <a href="https://drive.google.com/file/d/121kGmsI1cderSPxEkSDrrDPZqln9dp2f/view?usp=sharing" class="btn btn--primary btn--large" target="_blank">
+  <a href="https://drive.google.com/file/d/1UOwGiFOlLKUYeYC5YXYpiaZOafMpaAm5/view?usp=sharing" class="btn btn--primary btn--large" target="_blank">
     📄 Download CV (PDF)
   </a>
 </div>
@@ -131,7 +131,7 @@ Talks
 ### DRAL-OA: Deep Reinforcement Adaptive Learning for Ontology Alignment
 **Role:** Researcher and Developer | **Status:** Submitted to OAEI 2025
 - Enhanced deep reinforcement learning framework achieving **92% Precision and Recall** on complex anatomy track
-- Leading research into LLM integration to surpass current performance benchmarks
+- Currently leading research into integrating MCP and local agentic reasoning model of LLM's to further boost alignment accuracy, with the objective of surpassing the benchmark
 - Submitted to Ontology Alignment Evaluation Initiative (OAEI) 2025 campaign
 
 ### Finetuning Gemma-3N with LoRA
@@ -171,7 +171,7 @@ Talks
 
 ### Volunteer Teacher | Noble Cause Foundation
 *Aug 2020 – Apr 2024* | **3 years 9 months**
-- Tutored underprivileged children in STEM subjects (mathematics, science, social studies)
+- Tutored underprivileged students in STEM subjects (mathematics, science, social studies)
 - Participated in community outreach events and environmental cleaning drives
 - Contributed to social welfare initiatives impacting local communities
 

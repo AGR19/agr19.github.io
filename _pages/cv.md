@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <div style="text-align: center; margin-bottom: 30px;">
-  <a href="https://drive.google.com/file/d/1UOwGiFOlLKUYeYC5YXYpiaZOafMpaAm5/view?usp=sharing" class="btn btn--primary btn--large" target="_blank">
+  <a href="https://drive.google.com/file/d/1qogz-8bUcmeZ5PQA4DUWhpEYQBfk0x0g/view?usp=sharing" class="btn btn--primary btn--large" target="_blank">
     📄 Download CV (PDF)
   </a>
 </div>
@@ -91,6 +91,8 @@ Node.js, React, Git, Tableau, Spark, Kafka, Scrum/Agile
 **Certifications:**
 - Generative AI for Everyone (DeepLearning.ai)
 - AWS Cloud Practitioner (AWS)
+- RCR - Responsible Conduct of Research (CITI Program)
+- IRB - Social, Behavioral Research (CITI Program)
 
 <!-- Publications (currently empty - add individual publications as needed)
 Publications

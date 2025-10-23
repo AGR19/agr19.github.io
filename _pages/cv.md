@@ -132,7 +132,7 @@ Talks
 
 ### DRAL-OA: Deep Reinforcement Adaptive Learning for Ontology Alignment
 **Role:** Researcher and Developer | **Status:** Submitted to OAEI 2025
-- Enhanced deep reinforcement learning framework achieving **92% Precision and Recall** on complex anatomy track
+- Enhanced deep reinforcement learning framework achieving **82% Precision and Recall** on complex anatomy track
 - Currently leading research into integrating MCP and local agentic reasoning model of LLM's to further boost alignment accuracy, with the objective of surpassing the benchmark
 - Submitted to Ontology Alignment Evaluation Initiative (OAEI) 2025 campaign
 

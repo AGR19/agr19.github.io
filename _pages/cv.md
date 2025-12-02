@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <div style="text-align: center; margin-bottom: 30px;">
-  <a href="https://drive.google.com/file/d/1qogz-8bUcmeZ5PQA4DUWhpEYQBfk0x0g/view?usp=sharing" class="btn btn--primary btn--large" target="_blank">
+  <a href="https://drive.google.com/file/d/1_l-tFhqsdSi11NP37NZd-kVWXeLEUZTL/view?usp=share_link" class="btn btn--primary btn--large" target="_blank">
     📄 Download CV (PDF)
   </a>
 </div>
@@ -23,11 +23,8 @@ redirect_from:
 **Arizona State University** | *Tempe, AZ* | Aug. 2024 – May 2026  
 **GPA:** 3.83/4.0
 
-**Current Research Focus:**
-- Deep Reinforcement Learning and LLMs for Ontology Alignment
-- Retrieval-Augmented Generation (RAG) with Knowledge Graphs
-- Large-scale Resume Parsing using LLMs with CIP Codes for Skill Gap Analysis and Curriculum Optimization
-- GEMR:KG - Global Emerging Markets Risk Knowledge Graph
+**Thesis:** Use of Deep Reinforcement Learning and LLMs for Ontology Alignment  
+**Advisor:** Dr. Srividya Bansal
 
 ### Bachelor of Engineering in Information Science and Engineering
 **Visvesvaraya Technological University** | *Bengaluru, India* | Aug. 2023
@@ -36,12 +33,24 @@ redirect_from:
 
 ## Research Experience
 
+### Independent Study: Foundations and RAG with Knowledge Graphs
+**Arizona State University** | *Tempe, AZ* | Aug. 2025 – Present
+- Analyzed Entity Alignment techniques for merging heterogeneous graphs, specifically evaluating Graph Convolutional Networks and attribute embedding models for cross-lingual integration
+- Evaluated Retrieval-Augmented Generation (RAG) frameworks, focusing on how structured knowledge graphs act as a verification layer to mitigate hallucinations in generative systems
+- Explored the intersection of Linked Data and NLP, documenting techniques for grounding Large Language Models in factual, curated ontologies to enhance reasoning capabilities
+
+### Volunteer Researcher
+**Fireline Science** | *Tempe, AZ* | July 2025 – Present
+- Designing and fine-tuning offline models specifically engineered to assist Wilderness First Responders in disconnected areas, addressing critical safety gaps caused by isolation
+- Assisted with the development and testing of Fireline Science's educational workflow system TWS including the first use of their external API
+- Implementing human-in-the-loop workflows to counteract skill decay and role ambiguity, ensuring reliable guidance for critical care in the wild
+
 ### Research Aide and Grader
-**Arizona State University, W.P. Carey School of Business** | *May 2025 – Present*
-- Formulated data-driven strategies for curriculum optimization by researching and implementing LLMs to identify organizational skill gaps
-- Performed advanced statistical analyses (SEM, ANOVA, ANCOVA, Regression Discontinuity, Survival Analysis) on Canvas LMS data for industry reports
+**Arizona State University, W.P. Carey School of Business** | *Tempe, AZ* | May 2025 – Present
+- Formulated data-driven strategies for curriculum optimization by researching and implementing LLMs to identify organizational skill gaps, leading to more targeted learning pathways
+- Performed advanced statistical analyses (SEM, ANOVA, ANCOVA, Regression Discontinuity, Survival Analysis) and other data analysis, cleaning, and visualizations on Canvas LMS data and internal data for industry reports
 - Communicated key findings to sponsors to support strategic decision-making
-- Facilitated course delivery and mentored students in AWS Cloud Foundations (CIS 194)
+- Facilitate course delivery, evaluate assignments, and mentor students in AWS Cloud Foundations course (CIS 194)
 
 ---
 
@@ -68,31 +77,39 @@ redirect_from:
 
 <div>
 <strong>Programming Languages</strong><br>
-Python, R, C/C++, JavaScript, Java, Scala, SQL, PHP, CSS
+R, Python, C, C++, JavaScript, CSS, SQL, PHP, Java, Scala
 </div>
 
 <div>
-<strong>Machine Learning & AI</strong><br>
-TensorFlow, Keras, Scikit-learn, Pandas, Matplotlib, Seaborn, OpenCV, Mediapipe
+<strong>Libraries & Tools</strong><br>
+PyTorch, TensorFlow, Keras, Hugging Face, LangChain, PEFT (LoRA/QLoRA), FHE, FAISS, Scikit-learn, Pandas, Matplotlib, OpenCV, Mediapipe, Node.js, React
 </div>
 
 <div>
 <strong>Cloud & DevOps</strong><br>
-AWS (EC2, S3, Route 53, CloudFront, Developer Tools), Kubernetes, Docker
-</div>
-
-<div>
-<strong>Frameworks & Tools</strong><br>
-Node.js, React, Git, Tableau, Spark, Kafka, Scrum/Agile
+AWS (EC2, S3, Route 53, CloudFront, Developer Tools), Kubernetes, Docker, Git, Agile, Tableau, Spark, Kafka
 </div>
 
 </div>
 
 **Certifications:**
 - Generative AI for Everyone (DeepLearning.ai)
-- AWS Cloud Practitioner (AWS)
+- AWS Cloud Practitioner
 - RCR - Responsible Conduct of Research (CITI Program)
 - IRB - Social, Behavioral Research (CITI Program)
+
+---
+
+## Manuscripts (Work in Progress)
+
+### Knowledge Graphs & Ontology Alignment | PI: Dr. Srividya Bansal
+- DRAL-OA: Results for OAEI 2025 | [Link](https://drive.google.com/file/d/1uX0UrmDhEoH1ijTMn0Cw0y8luW2XvE1x/view?usp=sharing)
+- Knowledge Graph Interoperability and Reasoning: A survey of alignment, and RAG
+- GEMR:KG - Global Emerging Market Risk Knowledge Graph
+
+### AI in Education & Learner Heterogeneity | PIs: Dr. Raghu Santanam, Dr. Collin Sellman
+- Parsing Resumes at Scale with LLMs and Predicting Result-Oriented Curriculum for Students
+- Individuals in the Dataset: Multi-Modal AI Approaches to Understand Learner Heterogeneity
 
 <!-- Publications (currently empty - add individual publications as needed)
 Publications
@@ -132,27 +149,25 @@ Talks
 
 ### DRAL-OA: Deep Reinforcement Adaptive Learning for Ontology Alignment
 **Role:** Researcher and Developer | **Status:** Submitted to OAEI 2025
-- Enhanced deep reinforcement learning framework achieving **82% Precision and Recall** on complex anatomy track
-- Currently leading research into integrating MCP and local agentic reasoning model of LLM's to further boost alignment accuracy, with the objective of surpassing the benchmark
-- Submitted to Ontology Alignment Evaluation Initiative (OAEI) 2025 campaign
+- Enhanced and submitted a deep reinforcement and adaptive learning ontology alignment framework to the OAEI 2025 campaign, achieving benchmark scores of **82% Precision and Recall** on the complex anatomy track
+- Currently leading research into integrating MCP and local agentic reasoning model of LLMs to further boost alignment accuracy, with the objective of surpassing the benchmark
 
-### Finetuning Gemma-3N with LoRA
-**Role:** Developer | **Tech Stack:** Unsloth, LoRA PEFT, HuggingFace
-- Built custom fine-tuning pipeline for Google's Gemma 3N optimized for mobile devices
-- Architected automated end-to-end pipeline with direct HuggingFace Hub integration
-- Achieved one-click model training with significantly reduced turnaround time
+### GEMR:KG - Global Emerging Market Risk Knowledge Graph
+**Role:** Researcher
+- Architected a neuro-symbolic knowledge graph merging World Bank economic and credit risk and political risk datasets into a unified RDF/OWL ontology on GraphDB to model contagion dynamics and temporal correlations
+- Built a Python-based ETL pipeline for semantic normalization and integrated an LLM-to-SPARQL interface, enabling complex multi-hop reasoning to uncover hidden macroeconomic stress signals and geographic default propagation paths across siloed financial data
 
 ### Smart Portfolio Builder 🏆
 **Role:** AWS Cloud & Backend Developer | **Award:** Most Innovative Project, Innovation Hacks 2025
-- Integrated AWS Bedrock (Claude 3 Haiku) for AI-enhanced resume summarization
-- Designed robust Node.js/Express.js backend processing 100+ resumes and videos
-- Achieved high uptime through optimized PostgreSQL data storage and Multer-powered uploads
+- Won the **MOST INNOVATIVE PROJECT** at INNOVATION HACKS - 2025
+- Integrated AWS Bedrock to provide AI-enhanced resume summarization and orchestrated processing of user portfolio data
+- Designed a Node.js/Express.js RESTful backend, processing **100+** resumes and videos via Multer-powered uploads, achieving high uptime through PostgreSQL
 
 ### HR Onboarding Chatbot
 **Role:** Full Stack Developer | **Tech Stack:** OpenAI, FAISS, NLTK, AWS
-- Engineered LLM chatbot with sentence transformers and vector search capabilities
-- Improved content retrieval accuracy by **30%** and reduced query processing time by **40%**
-- Ensured scalability and seamless AWS infrastructure integration
+- Engineered a LLM chatbot solution integrated with OpenAI modules, sentence transformers, FAISS, NLTK, NumPy, and Pandas
+- Built natural language queries against proprietary content and ensured seamless integration with existing AWS infrastructure
+- Pioneered NLP pipeline improving content retrieval accuracy by **30%** and reducing query processing time by **40%** on AWS
   
 ---
 

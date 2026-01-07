@@ -1,6 +1,7 @@
 ---
 title: "DRAL-OA: Results for OAEI 2025"
 collection: publications
+category: conferences
 permalink: /publication/2025-dral-oa
 excerpt: 'Deep reinforcement and adaptive learning ontology alignment framework submitted to the OAEI 2025 campaign, achieving benchmark scores of 82% Precision and Recall on the complex anatomy track.'
 date: 2025-01-07

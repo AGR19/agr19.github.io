@@ -103,7 +103,6 @@ AWS (EC2, S3, Route 53, CloudFront, Developer Tools), Kubernetes, Docker, Git, A
 ## Manuscripts (Work in Progress)
 
 ### Knowledge Graphs & Ontology Alignment | PI: Dr. Srividya Bansal
-- DRAL-OA: Results for OAEI 2025 | [Link](https://drive.google.com/file/d/1uX0UrmDhEoH1ijTMn0Cw0y8luW2XvE1x/view?usp=sharing)
 - Knowledge Graph Interoperability and Reasoning: A survey of alignment, and RAG
 - GEMR:KG - Global Emerging Market Risk Knowledge Graph
 

@@ -15,7 +15,7 @@ My current research spans multiple domains at the intersection of AI, knowledge 
 ### Knowledge Graphs & Ontology Alignment (with Dr. Srividya Bansal)
 
 - **Knowledge Graph Interoperability and Reasoning: A survey of alignment, and RAG** - Comprehensive survey exploring entity alignment techniques and RAG frameworks for merging heterogeneous graphs *(Status : Accepted at IEEE ICSC 2026)*
-- **GEMR:KG - Global Emerging Market Risk Knowledge Graph** - Neuro-symbolic knowledge graph merging World Bank datasets into unified RDF/OWL ontology for modeling contagion dynamics *(Status : Submitted to AMCIS : SIG ODIS and IADIS : is-conf)*
+- **GEMR:KG - Global Emerging Market Risk Knowledge Graph** - Neuro-symbolic knowledge graph merging World Bank datasets into unified RDF/OWL ontology for modeling contagion dynamics *(Status : Accepted at IADIS - 2026)*
 
 ### AI in Education & Learner Heterogeneity (with Dr. Raghu Santanam & Dr. Collin Sellman)
 

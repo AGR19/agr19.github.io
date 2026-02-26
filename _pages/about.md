@@ -12,6 +12,11 @@ I am Adi, a Master's student in Computer Software Engineering at Arizona State U
 
 My current research spans multiple domains at the intersection of AI, knowledge representation, and applied systems:
 
+### Thesis (with Dr. Srividya Bansal)
+
+- **Use of Agents for Ontology Alignment**
+- **Training LLMs on Large Ontologies**
+
 ### Knowledge Graphs & Ontology Alignment (with Dr. Srividya Bansal)
 
 - **Knowledge Graph Interoperability and Reasoning: A survey of alignment, and RAG** - Comprehensive survey exploring entity alignment techniques and RAG frameworks for merging heterogeneous graphs *(Status : Accepted at IEEE ICSC 2026)*

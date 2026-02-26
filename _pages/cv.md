@@ -9,8 +9,8 @@ redirect_from:
 {% include base_path %}
 
 <div style="text-align: center; margin: 60px 0;">
-  <a href="https://drive.google.com/file/d/10YcdyhZmvKeJy-dX56QC4cYkm_-1VuWR/view?usp=share_link" class="btn btn--primary btn--large" target="_blank">
-    📄 View & Download CV (PDF)
+  <a href="https://drive.google.com/uc?export=download&id=10YcdyhZmvKeJy-dX56QC4cYkm_-1VuWR" class="btn btn--primary btn--large">
+    📄 Download CV (PDF)
   </a>
 </div>
 

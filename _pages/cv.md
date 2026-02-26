@@ -110,13 +110,11 @@ AWS (EC2, S3, Route 53, CloudFront, Developer Tools), Kubernetes, Docker, Git, A
 - RCR - Responsible Conduct of Research (CITI Program)
 - IRB - Social, Behavioral Research (CITI Program)
 
-<!-- Talks (currently empty - add individual talks as needed)
-Talks
-======
+## Talks and Presentations
+
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
--->
 
 ---
 

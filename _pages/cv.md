@@ -9,11 +9,11 @@ redirect_from:
 {% include base_path %}
 
 <div style="text-align: center; margin: 60px 0;">
-  <a href="https://drive.google.com/uc?export=download&id=10YcdyhZmvKeJy-dX56QC4cYkm_-1VuWR" class="btn btn--primary btn--large">
+  <a href="https://drive.google.com/uc?export=download&id=1DR50lO8DQ_fnWCBYffSh2GP-6yZV_XVd" class="btn btn--primary btn--large">
     📄 Download CV (PDF)
   </a>
 </div>
 
 <div style="text-align: center; margin-top: 20px;">
-  <iframe src="https://drive.google.com/file/d/10YcdyhZmvKeJy-dX56QC4cYkm_-1VuWR/preview" width="100%" height="800" style="border: none; border-radius: 8px; max-width: 900px;"></iframe>
+  <iframe src="https://drive.google.com/file/d/1DR50lO8DQ_fnWCBYffSh2GP-6yZV_XVd/preview" width="100%" height="800" style="border: none; border-radius: 8px; max-width: 900px;"></iframe>
 </div>

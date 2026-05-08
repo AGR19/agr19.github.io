@@ -8,7 +8,7 @@ date: 2025-11-22
 location: "Phoenix, AZ"
 ---
 
-Pitched **Asper** at the TiE Phoenix 2025 Pitch Competition — a B2B consultancy safeguarding critical personal data exposed through GPU processing during AI operations. Asper protects organizations from both internal and external snooping, helping them stay secure in an increasingly AI-driven world.
+Pitched Asper at TiE Phoenix, presenting the venture to a panel of investors and entrepreneurs in the Phoenix startup ecosystem.
 
 [View TiE Phoenix's post on LinkedIn](https://www.linkedin.com/posts/tie-phoenix_tiephoenix-entrepreneurship-innovation-ugcPost-7403151296045969410-Gb6C)
 

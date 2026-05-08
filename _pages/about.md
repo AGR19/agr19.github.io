@@ -31,8 +31,4 @@ My current research spans multiple domains at the intersection of AI, knowledge 
 
 - Designing and fine-tuning offline models to assist Wilderness First Responders in disconnected areas, implementing human-in-the-loop workflows for critical care guidance
 
-### Venture Capital
-
-- **Asper** - Pitched at TiE Phoenix, November 2025
-
 I bridge deep technical expertise with concrete business outcomes to drive innovation and growth. My unique combination of advanced AI research skills and business acumen enables me to deliver winning solutions that translate complex technical innovations into measurable business success.

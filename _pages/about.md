@@ -15,7 +15,6 @@ My current research spans multiple domains at the intersection of AI, knowledge 
 ### Thesis (with Dr. Srividya Bansal)
 
 - **Use of Agents for Ontology Alignment**
-- **Training LLMs on Large Ontologies**
 
 ### Knowledge Graphs & Ontology Alignment (with Dr. Srividya Bansal)
 
@@ -25,7 +24,7 @@ My current research spans multiple domains at the intersection of AI, knowledge 
 ### AI in Education & Learner Heterogeneity (with Dr. Raghu Santanam & Dr. Collin Sellman)
 
 - **Parsing Resumes at Scale with LLMs and Predicting Result-Oriented Curriculum for Students** - Data-driven strategy for curriculum optimization using LLMs to identify skill gaps
-- **Individuals in the Dataset: Multi-Modal AI Approaches to Understand Learner Heterogeneity** - Multi-modal AI approaches to analyze learner differences and personalize educational pathways *(Status : Submitted to INFORMS)*
+- **Individuals in the Dataset: Multi-Modal AI Approaches to Understand Learner Heterogeneity** - Multi-modal AI approaches to analyze learner differences and personalize educational pathways *(Status : Accepted at INFORMS)*
 
 ### Offline AI Emergency Response Systems for Wilderness Medicine (with Fireline Science)
 

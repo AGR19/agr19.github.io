@@ -14,7 +14,7 @@ My current research spans multiple domains at the intersection of AI, knowledge 
 
 ### Thesis (with Dr. Srividya Bansal)
 
-- **Use of Agents for Ontology Alignment**
+- **Domain Agnostic Ontology Alignment Techniques Using AI**
 
 ### Knowledge Graphs & Ontology Alignment (with Dr. Srividya Bansal)
 

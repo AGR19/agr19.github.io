@@ -23,11 +23,14 @@ My current research spans multiple domains at the intersection of AI, knowledge 
 
 ### AI in Education & Learner Heterogeneity (with Dr. Raghu Santanam & Dr. Collin Sellman)
 
-- **Parsing Resumes at Scale with LLMs and Predicting Result-Oriented Curriculum for Students** - Data-driven strategy for curriculum optimization using LLMs to identify skill gaps
+*Supported by the Charles Koch Foundation*
+
 - **Individuals in the Dataset: Multi-Modal AI Approaches to Understand Learner Heterogeneity** - Multi-modal AI approaches to analyze learner differences and personalize educational pathways *(Status : Accepted at INFORMS)*
 
-### Offline AI Emergency Response Systems for Wilderness Medicine (with Fireline Science)
+### Africa Skills Observatory (with Dr. Raghu Santanam & Dr. Ashish Satpaty)
 
-- Designing and fine-tuning offline models to assist Wilderness First Responders in disconnected areas, implementing human-in-the-loop workflows for critical care guidance
+*Supported by the Mastercard Foundation*
+
+- **Trustworthy Decision Support for Skills Policy and Employer Due Diligence in Africa: A Design Science Study of the Africa Skills Observatory**
 
 I bridge deep technical expertise with concrete business outcomes to drive innovation and growth. My unique combination of advanced AI research skills and business acumen enables me to deliver winning solutions that translate complex technical innovations into measurable business success.

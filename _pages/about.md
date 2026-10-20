@@ -27,7 +27,7 @@ My current research spans multiple domains at the intersection of AI, knowledge 
 
 - **Individuals in the Dataset: Multi-Modal AI Approaches to Understand Learner Heterogeneity** - Multi-modal AI approaches to analyze learner differences and personalize educational pathways *(Status : Accepted at INFORMS)*
 
-### Africa Skills Observatory (with Dr. Raghu Santanam & Dr. Ashish Satpaty)
+### Africa Skills Observatory (with Dr. Raghu Santanam & Dr. Ashish Satpathy)
 
 *Supported by the Mastercard Foundation*
 
